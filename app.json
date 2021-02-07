@@ -2,10 +2,10 @@
   "name": "He-Chat-Heroku",
   "description": "A Public ChatRoom",
   "repository": "https://github.com/developeranaz/HiChat",
-  "keywords": ["privatechat", "Chatroom", "Herokuchatroom", "easy", "php"],
+  "keywords": ["privatechat", "Chatroom", "Herokuchatroom", "easy", "nodejs", "free"],
   "builpacks": [
-    { "url": "heroku/php" },
-    { "url": "https://github.com/heroku/heroku-buildpack-php.git" }
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs.git" }
   ]
 }
 
