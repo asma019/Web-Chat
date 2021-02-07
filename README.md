@@ -19,7 +19,7 @@ How to run
 3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
 4. finnaly, open your browser and visit `localhost:3000`
 
-[教程见博客](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
+[Deploy In Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
 
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
 
