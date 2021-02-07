@@ -1,9 +1,9 @@
-HiChat
+HeChat (Heroku Chat App)
 ===
  
 A chat application built with Node.js and socket.io.
 
-View the live demo: http://hichat.herokuapp.com/
+View the live demo: http://he-chat.herokuapp.com/
 
 Features
 ---
@@ -23,4 +23,4 @@ How to run
 
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
 
-
+[Originally Frocked from here] (https://github.com/wayou/HiChat)
