@@ -20,7 +20,8 @@ How to run
 4. finnaly, open your browser and visit `localhost:3000`
 
 [Deploy In Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
+---
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
 
 [Originally Frocked from here](https://github.com/wayou/HiChat)
