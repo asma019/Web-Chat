@@ -1,11 +1,12 @@
-HeChat (Heroku Chat App)
+# HeChat (Heroku Chat App)
 ===
  
 A chat application built with Node.js and socket.io.
 
 View the live demo: http://he-chat.herokuapp.com/
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
 
-Features
+# Features
 ---
 * send pictures :sunrise:
 * send emojis :smile:
@@ -19,7 +20,7 @@ How to run
 3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
 4. finnaly, open your browser and visit `localhost:3000`
 
-[Deploy In Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
+[Deploy to Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/developeranaz/HiChat)
 ---
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
