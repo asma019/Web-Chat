@@ -26,4 +26,4 @@ How to run
 ---
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
 
-[Originally Frocked from here](https://github.com/wayou/HiChat)
+[Originally Forked from here](https://github.com/wayou/HiChat)
